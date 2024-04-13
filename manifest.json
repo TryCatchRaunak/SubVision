@@ -1,0 +1,6 @@
+{
+    "name": "SubVision",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "SubVision is a Chrome extension that allows you to view subtitles on any online streaming video file."
+}
